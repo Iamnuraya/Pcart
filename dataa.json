@@ -1,0 +1,77 @@
+[
+    {
+       "Id": 1,
+        "nam": "Waffles" ,
+        "category": "Waffles and Beerries",
+        "price": 6.50,
+        "image": "./img/images/waffle.jpg"
+
+    },
+    {
+   " Id": 2 ,
+   " nam":" Creme Brule",
+    "category": "Vannila Brule Creme" ,
+    "price": 8.00,
+    "image": "./img/images/brulee.jpg" 
+
+},
+{
+   " Id": 3 ,
+    "nam": "Macaron",
+    "category": "Macaron Mix",
+    "price": 5.50,
+    "image": "./img/images/macaron.jpg"
+
+}, 
+
+{
+   " Id": 4,
+    "nam": "Tiramisu",
+    "category": "Classic Tiramisu",
+    "price": 5.50,
+    "image":"./img/images/tirasimu.jpg"
+
+},
+
+{
+   " Id": 5 ,
+    "nam": "Baklava",
+    "category": "Panstancho Baklava",
+    "price": 4.00,
+    "image": "./img/images/baklava.jpg"
+},
+
+{
+   " Id": 6 ,
+   " nam": "Pie" ,
+    "category": "Lemon Pie",
+    "price": 5.00 ,
+    "image":"./img/images/pie.jpg" 
+
+},
+
+{
+   " Id": 7 ,
+    "nam":" Cake" ,
+    "category": "Red Velvet Cake" ,
+    "price": 4.50,
+    "image":"./img/images/cake.jpg"
+
+},
+
+{
+   " Id": 8 ,
+   "nam": "Brownie",
+    "category": "Salid Caramel",
+    "price":5.50,
+    "image": "./img/images/brownie.jpg"
+
+},
+
+{
+   " Id": 9 ,
+    "nam": " Panna Cotta",
+    "category": "Vanilla Pana Cota" ,
+    "price": 4.50,
+    "image": "./img/images/panacota.jpg" 
+}]
